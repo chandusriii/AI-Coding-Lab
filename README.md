@@ -1,4 +1,4 @@
-# 22NH1A4203
+# AI-Coding-Lab
 
 Welcome to this repository! This project contains code and documentation for various development tasks.
 
