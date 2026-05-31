@@ -10,8 +10,8 @@ This repository is organized into multiple branches for different features and d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chandusriii/22NH1A4203.git
-   cd 22NH1A4203
+   git clone https://github.com/chandusriii/AI-Coding-Lab.git
+   cd AI-Coding-Lab
    ```
 
 2. Explore the available branches:
@@ -62,4 +62,4 @@ The repository includes the following branches:
 ---
 
 **Last Updated:** 2026-05-31
-**Repository:** [22NH1A4203](https://github.com/chandusriii/22NH1A4203)
+**Repository:** [AI-Coding-Lab](https://github.com/chandusriii/AI-Coding-Lab)
